@@ -5,6 +5,7 @@
   - [Limitations](#limitations)
   - [Human Solving Procedure](#human-solving-procedure)
   - [Usage](#usage)
+  - [Licenses](#licenses)
 
 _Maximal Voxel Pruning_ (_MVP_) is an algorithm for solving orthographic-view puzzles built from stacked black and white unit cubes, originally developed [for humans solving these problems on paper](#human-solving-procedure).
 
@@ -122,3 +123,10 @@ A
 ```
 
 The puzzle shall satisfy the [problem scope](#problem-scope), and the JSON file shall follow the structure of the [example file](assets/puzzle-example.json).
+
+## Licenses
+
+This repository uses two licenses:
+
+- Code: Licensed under [MIT](LICENSE.txt)
+- Documentation: Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
